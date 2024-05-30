@@ -40,6 +40,25 @@
     </entry>
     
     
+    
+    <entry>
+      <title>hexo安装参考</title>
+      <link href="/2022/05/30/hexo%E5%AE%89%E8%A3%85%E5%8F%82%E8%80%83/"/>
+      <url>/2022/05/30/hexo%E5%AE%89%E8%A3%85%E5%8F%82%E8%80%83/</url>
+      
+        <content type="html"><![CDATA[<p>安装hexo参考如下：</p><ul><li>官网：<a href="https://hexo.io/zh-cn/">Hexo</a></li><li>博客：<a href="https://seekstar.github.io/2021/02/28/hexo-tree%E4%B8%BB%E9%A2%98-%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/">hexo-tree主题-使用笔记 | searchstar (seekstar.github.io)</a></li><li>CSDN：<a href="https://blog.csdn.net/xuezhisdc/article/details/53130328">hexo教程系列——hexo安装教程_hexo g-CSDN博客</a></li><li>valine评论系统：<a href="https://valine.js.org/">介绍 | Valine 一款快速、简洁且高效的无后端评论系统。</a></li><li>hexo主题：<a href="https://github.com/wujun234/hexo-theme-tree">wujun234&#x2F;hexo-theme-tree (github.com)</a></li><li>哔哩哔哩：<a href="https://www.bilibili.com/video/BV1gG411H78j/?spm_id_from=333.337.search-card.all.click&vd_source=d1ce04f42b70190e52318c16ad4c09eb">【新手】使用Github+hexo搭建个人博客_哔哩哔哩_bilibili</a></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
